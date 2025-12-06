@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛍️ Fashion E-Commerce Shopping Website
 
 A modern and stylish e-commerce fashion website built with HTML and CSS. This project features a beautiful, responsive design showcasing fashion products with an elegant user interface.
@@ -103,9 +102,3 @@ Built with ❤️ for fashion enthusiasts
 ---
 
 **Happy Shopping! 🛒✨**
-=======
-# E_Commerce_Shooping_Website
-HTML and CSS  
-
-
->>>>>>> 835c583a8bd9a7de1c81fe8d5366cbc1cb4ab914
