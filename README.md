@@ -25,7 +25,7 @@ A modern and stylish e-commerce fashion website built with HTML and CSS. This pr
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ziaullah888/Shopping_Website.git
 cd Shopping_Website
 ```
 
